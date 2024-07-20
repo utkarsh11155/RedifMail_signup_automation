@@ -1,4 +1,4 @@
-# RedifMail_signup_automation
+# RediffMail_signup_automation
 Project Title: Rediff Mail Create Account Automation
 
 Objective: Automate the registration process on Rediff Mail's "Create a new account" page using Selenium WebDriver in Java.
